@@ -13,6 +13,9 @@
 		975AC5DD28CBE36A00FD7B6B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 975AC5DB28CBE36A00FD7B6B /* Main.storyboard */; };
 		975AC5DF28CBE36C00FD7B6B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 975AC5DE28CBE36C00FD7B6B /* Assets.xcassets */; };
 		975AC5E228CBE36C00FD7B6B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 975AC5E028CBE36C00FD7B6B /* LaunchScreen.storyboard */; };
+		975AC5EC28CBE3B600FD7B6B /* aspas-esquerda.png in Resources */ = {isa = PBXBuildFile; fileRef = 975AC5E928CBE3B600FD7B6B /* aspas-esquerda.png */; };
+		975AC5ED28CBE3B600FD7B6B /* aspas-direita.png in Resources */ = {isa = PBXBuildFile; fileRef = 975AC5EA28CBE3B600FD7B6B /* aspas-direita.png */; };
+		975AC5EE28CBE3B600FD7B6B /* logo.png in Resources */ = {isa = PBXBuildFile; fileRef = 975AC5EB28CBE3B600FD7B6B /* logo.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +27,9 @@
 		975AC5DE28CBE36C00FD7B6B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		975AC5E128CBE36C00FD7B6B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		975AC5E328CBE36C00FD7B6B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		975AC5E928CBE3B600FD7B6B /* aspas-esquerda.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "aspas-esquerda.png"; sourceTree = "<group>"; };
+		975AC5EA28CBE3B600FD7B6B /* aspas-direita.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "aspas-direita.png"; sourceTree = "<group>"; };
+		975AC5EB28CBE3B600FD7B6B /* logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = logo.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +62,9 @@
 		975AC5D428CBE36A00FD7B6B /* FraseDoDia */ = {
 			isa = PBXGroup;
 			children = (
+				975AC5EA28CBE3B600FD7B6B /* aspas-direita.png */,
+				975AC5E928CBE3B600FD7B6B /* aspas-esquerda.png */,
+				975AC5EB28CBE3B600FD7B6B /* logo.png */,
 				975AC5D528CBE36A00FD7B6B /* AppDelegate.swift */,
 				975AC5D728CBE36A00FD7B6B /* SceneDelegate.swift */,
 				975AC5D928CBE36A00FD7B6B /* ViewController.swift */,
@@ -125,6 +134,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				975AC5EC28CBE3B600FD7B6B /* aspas-esquerda.png in Resources */,
+				975AC5ED28CBE3B600FD7B6B /* aspas-direita.png in Resources */,
+				975AC5EE28CBE3B600FD7B6B /* logo.png in Resources */,
 				975AC5E228CBE36C00FD7B6B /* LaunchScreen.storyboard in Resources */,
 				975AC5DF28CBE36C00FD7B6B /* Assets.xcassets in Resources */,
 				975AC5DD28CBE36A00FD7B6B /* Main.storyboard in Resources */,
